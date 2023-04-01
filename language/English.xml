@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Language>
+  <Table ElementCount="341">
+    <Element Key="The Previous element in linked list operator(s)" Translation="The Previous element in linked list operator(s)"/>
+    <Element Key="August" Translation="August"/>
+    <Element Key="The Clear operator" Translation="The Clear operator"/>
+    <Element Key="Numbers" Translation="Numbers"/>
+    <Element Key="The Data memory allocator(s)" Translation="The Data memory allocator(s)"/>
+    <Element Key="Structure declaration" Translation="Structure declaration"/>
+    <Element Key="Tuesday" Translation="Tuesday"/>
+    <Element Key="Clear" Translation="Clear"/>
+    <Element Key="Constants" Translation="Constants"/>
+    <Element Key="The AddEx to linked list operator(s)" Translation="The AddEx to linked list operator(s)"/>
+    <Element Key="Wednesday" Translation="Wednesday"/>
+    <Element Key="The Sort operator" Translation="The Sort operator"/>
+    <Element Key="The Product operator : R = A * B" Translation="The Product operator : R = A * B"/>
+    <Element Key="Add Element" Translation="Add Element"/>
+    <Element Key="Sep" Translation="Sep"/>
+    <Element Key="Mar" Translation="Mar"/>
+    <Element Key="Key" Translation="Key"/>
+    <Element Key="Procedures" Translation="Procedures"/>
+    <Element Key="Create File" Translation="Create File"/>
+    <Element Key="The Randomize linked list operator(s)" Translation="The Randomize linked list operator(s)"/>
+    <Element Key="Catch File" Translation="Catch File"/>
+    <Element Key="Spelling error" Translation="Spelling error"/>
+    <Element Key="Code Generator Statistics" Translation="Code Generator Statistics"/>
+    <Element Key="May" Translation="May"/>
+    <Element Key="Read and Write on file" Translation="Read and Write on file"/>
+    <Element Key="Map Operators" Translation="Map Operators"/>
+    <Element Key="First Element" Translation="First Element"/>
+    <Element Key="Mathematic Operators" Translation="Mathematic Operators"/>
+    <Element Key="Divide by Scalar" Translation="Divide by Scalar"/>
+    <Element Key="Operators" Translation="Operators"/>
+    <Element Key="Monday" Translation="Monday"/>
+    <Element Key="The linear search linked list operator(s)" Translation="The linear search linked list operator(s)"/>
+    <Element Key="Subtract" Translation="Subtract"/>
+    <Element Key="July" Translation="July"/>
+    <Element Key="Read Encoded/Crypted File" Translation="Read Encoded/Crypted File"/>
+    <Element Key="The Minus operator : R = A - B" Translation="The Minus operator : R = A - B"/>
+    <Element Key="Projects files folder" Translation="Projects files folder"/>
+    <Element Key="The Reset linked list operator(s)" Translation="The Reset linked list operator(s)"/>
+    <Element Key="The Copy operator" Translation="The Copy operator"/>
+    <Element Key="Dates formatting" Translation="Dates formatting"/>
+    <Element Key="Size" Translation="Size"/>
+    <Element Key="The number of methods differ" Translation="The number of methods differ"/>
+    <Element Key="Load From Prefs file" Translation="Load From Prefs file"/>
+    <Element Key="The merge linked list operator(s)" Translation="The merge linked list operator(s)"/>
+    <Element Key="The Add to linked list operator(s)" Translation="The Add to linked list operator(s)"/>
+    <Element Key="January" Translation="January"/>
+    <Element Key="Read preferences group" Translation="Read preferences group"/>
+    <Element Key="PureBasic SourceCode (*.pb, *.pbi)|*.pb;*.pbi" Translation="PureBasic SourceCode (*.pb, *.pbi)|*.pb;*.pbi"/>
+    <Element Key="Minus" Translation="Minus"/>
+    <Element Key="Ordinal" Translation="Ordinal"/>
+    <Element Key="2 digits minutes" Translation="2 digits minutes"/>
+    <Element Key="The Object name is missing !" Translation="The Object name is missing !"/>
+    <Element Key="XML Collect Attributes" Translation="XML Collect Attributes"/>
+    <Element Key="Create Binary File" Translation="Create Binary File"/>
+    <Element Key="The Divide operator : R = A / B" Translation="The Divide operator : R = A / B"/>
+    <Element Key="JSON Catch file" Translation="JSON Catch file"/>
+    <Element Key="Don&apos;t add keywords" Translation="Don&apos;t add keywords"/>
+    <Element Key="Types" Translation="Types"/>
+    <Element Key="Fold Markers" Translation="Fold Markers"/>
+    <Element Key="Worst" Translation="Worst"/>
+    <Element Key="Custom Prefs File" Translation="Custom Prefs File"/>
+    <Element Key="Binary File" Translation="Binary File"/>
+    <Element Key="Source" Translation="Source"/>
+    <Element Key="Syntax coloring" Translation="Syntax coloring"/>
+    <Element Key="The Clear linked list operator(s)" Translation="The Clear linked list operator(s)"/>
+    <Element Key="Insert Element Ex" Translation="Insert Element Ex"/>
+    <Element Key="Basic Methods" Translation="Basic Methods"/>
+    <Element Key="Caret" Translation="Caret"/>
+    <Element Key="December" Translation="December"/>
+    <Element Key="XML File" Translation="XML File"/>
+    <Element Key="Keywords in bold" Translation="Keywords in bold"/>
+    <Element Key="4 digits year" Translation="4 digits year"/>
+    <Element Key="Dev-Object - Error" Translation="Dev-Object - Error"/>
+    <Element Key="Re-Dimension" Translation="Re-Dimension"/>
+    <Element Key="Add FileFormatID" Translation="Add FileFormatID"/>
+    <Element Key="Background" Translation="Background"/>
+    <Element Key="Coded for PureBasic :" Translation="Coded for PureBasic :"/>
+    <Element Key="Code generated by :" Translation="Code generated by :"/>
+    <Element Key="The Insert Top Bottom Out operator(s)" Translation="The Insert Top Bottom Out operator(s)"/>
+    <Element Key="Static Array Operators" Translation="Static Array Operators"/>
+    <Element Key="XML Create file" Translation="XML Create file"/>
+    <Element Key="AKA" Translation="AKA"/>
+    <Element Key="Dev-Object" Translation="Dev-Object"/>
+    <Element Key="3 characters day name" Translation="3 characters day name"/>
+    <Element Key="Your name" Translation="Your name"/>
+    <Element Key="XML Set Node with Attributes" Translation="XML Set Node with Attributes"/>
+    <Element Key="Write in Binary file" Translation="Write in Binary file"/>
+    <Element Key="Select the Source code to save" Translation="Select the Source code to save"/>
+    <Element Key="Jul" Translation="Jul"/>
+    <Element Key="Jun" Translation="Jun"/>
+    <Element Key="Feb" Translation="Feb"/>
+    <Element Key="Create/Load File" Translation="Create/Load File"/>
+    <Element Key="Sanity Checker" Translation="Sanity Checker"/>
+    <Element Key="April" Translation="April"/>
+    <Element Key="Modules" Translation="Modules"/>
+    <Element Key="The number of parameters differ" Translation="The number of parameters differ"/>
+    <Element Key="The Destructor" Translation="The Destructor"/>
+    <Element Key="Create preferences file" Translation="Create preferences file"/>
+    <Element Key="The Constructor" Translation="The Constructor"/>
+    <Element Key="Selection" Translation="Selection"/>
+    <Element Key="Use the real tabulation character" Translation="Use the real tabulation character"/>
+    <Element Key="Extract Prefs Group" Translation="Extract Prefs Group"/>
+    <Element Key="November" Translation="November"/>
+    <Element Key="Paste" Translation="Paste"/>
+    <Element Key="The Quick Sort Descendant operator(s)" Translation="The Quick Sort Descendant operator(s)"/>
+    <Element Key="The Select in linked list operator(s)" Translation="The Select in linked list operator(s)"/>
+    <Element Key="The Find map element operator(s)" Translation="The Find map element operator(s)"/>
+    <Element Key="Options" Translation="Options"/>
+    <Element Key="E-mail" Translation="E-mail"/>
+    <Element Key="Create/Open file" Translation="Create/Open file"/>
+    <Element Key="Object" Translation="Object"/>
+    <Element Key="New" Translation="New"/>
+    <Element Key="Help" Translation="Help"/>
+    <Element Key="June" Translation="June"/>
+    <Element Key="The Reset operator" Translation="The Reset operator"/>
+    <Element Key="Read in Binary file" Translation="Read in Binary file"/>
+    <Element Key="Open" Translation="Open"/>
+    <Element Key="The Linear Interpolation operator" Translation="The Linear Interpolation operator"/>
+    <Element Key="XML Load file" Translation="XML Load file"/>
+    <Element Key="Separators" Translation="Separators"/>
+    <Element Key="Quit" Translation="Quit"/>
+    <Element Key="Long month name" Translation="Long month name"/>
+    <Element Key="Font" Translation="Font"/>
+    <Element Key="Code cleanup" Translation="Code cleanup"/>
+    <Element Key="Node with child nodes" Translation="Node with child nodes"/>
+    <Element Key="State" Translation="State"/>
+    <Element Key="Last Element" Translation="Last Element"/>
+    <Element Key="Methods" Translation="Methods"/>
+    <Element Key="Friday" Translation="Friday"/>
+    <Element Key="Add" Translation="Add"/>
+    <Element Key="2 digits hours" Translation="2 digits hours"/>
+    <Element Key="The map Key operator(s)" Translation="The map Key operator(s)"/>
+    <Element Key="The First element in linked list operator(s)" Translation="The First element in linked list operator(s)"/>
+    <Element Key="Line Highlight" Translation="Line Highlight"/>
+    <Element Key="Dynamic Data Size and Indexes Type" Translation="Dynamic Data Size and Indexes Type"/>
+    <Element Key="QuickSort Descending" Translation="QuickSort Descending"/>
+    <Element Key="Add Prefs Group" Translation="Add Prefs Group"/>
+    <Element Key="Click me" Translation="Click me"/>
+    <Element Key="Randomize" Translation="Randomize"/>
+    <Element Key="The Index in the linked list operator(s)" Translation="The Index in the linked list operator(s)"/>
+    <Element Key="Definition" Translation="Definition"/>
+    <Element Key="The return type differ" Translation="The return type differ"/>
+    <Element Key="Subtract Scalar" Translation="Subtract Scalar"/>
+    <Element Key="The Insert in linked list operator(s)" Translation="The Insert in linked list operator(s)"/>
+    <Element Key="Warning - File already exist" Translation="Warning - File already exist"/>
+    <Element Key="The Last element in linked list operator(s)" Translation="The Last element in linked list operator(s)"/>
+    <Element Key="Top 5 (Second)" Translation="Top 5 (Second)"/>
+    <Element Key="Access" Translation="Access"/>
+    <Element Key="Open Binary File" Translation="Open Binary File"/>
+    <Element Key="The observators" Translation="The observators"/>
+    <Element Key="Always on top" Translation="Always on top"/>
+    <Element Key="Delete Element" Translation="Delete Element"/>
+    <Element Key="Add keywords" Translation="Add keywords"/>
+    <Element Key="Errors" Translation="Errors"/>
+    <Element Key="The AddEx to map operator(s)" Translation="The AddEx to map operator(s)"/>
+    <Element Key="Top 5 (Line/Second)" Translation="Top 5 (Line/Second)"/>
+    <Element Key="The member %DESC% is invalid ! By the way Structured members are not supported yet !" Translation="The member %DESC% is invalid ! By the way Structured members are not supported yet !"/>
+    <Element Key="The SubtractScalar operator : A = A - Scalar" Translation="The SubtractScalar operator : A = A - Scalar"/>
+    <Element Key="Literal Strings" Translation="Literal Strings"/>
+    <Element Key="Aug" Translation="Aug"/>
+    <Element Key="Create Encoded/Crypted File" Translation="Create Encoded/Crypted File"/>
+    <Element Key="Find Element" Translation="Find Element"/>
+    <Element Key="Insert Element" Translation="Insert Element"/>
+    <Element Key="Copy" Translation="Copy"/>
+    <Element Key="Generate code" Translation="Generate code"/>
+    <Element Key="The Virtual Table Entries" Translation="The Virtual Table Entries"/>
+    <Element Key="Fold Margin Background" Translation="Fold Margin Background"/>
+    <Element Key="Selection Background" Translation="Selection Background"/>
+    <Element Key="Select project to open" Translation="Select project to open"/>
+    <Element Key="Dev-Object Project (*.devo)|*.devo" Translation="Dev-Object Project (*.devo)|*.devo"/>
+    <Element Key="Getters" Translation="Getters"/>
+    <Element Key="Send to Clipboard" Translation="Send to Clipboard"/>
+    <Element Key="Write in Encoded/Crypted file" Translation="Write in Encoded/Crypted file"/>
+    <Element Key="Add Scalar" Translation="Add Scalar"/>
+    <Element Key="The Delete map element operator(s)" Translation="The Delete map element operator(s)"/>
+    <Element Key="The Swapping operator" Translation="The Swapping operator"/>
+    <Element Key="Line Numbers Background" Translation="Line Numbers Background"/>
+    <Element Key="AKA :" Translation="AKA :"/>
+    <Element Key="September" Translation="September"/>
+    <Element Key="Open File" Translation="Open File"/>
+    <Element Key="Index" Translation="Index"/>
+    <Element Key="Source code formatting" Translation="Source code formatting"/>
+    <Element Key="The Next map element operator(s)" Translation="The Next map element operator(s)"/>
+    <Element Key="3 characters month name" Translation="3 characters month name"/>
+    <Element Key="Setters" Translation="Setters"/>
+    <Element Key="Nov" Translation="Nov"/>
+    <Element Key="The Reset map operator(s)" Translation="The Reset map operator(s)"/>
+    <Element Key="Constants Enumeration" Translation="Constants Enumeration"/>
+    <Element Key="SaveOn/LoadFrom File" Translation="SaveOn/LoadFrom File"/>
+    <Element Key="Divide" Translation="Divide"/>
+    <Element Key="Cancel" Translation="Cancel"/>
+    <Element Key="Refresh Group" Translation="Refresh Group"/>
+    <Element Key="Add/Collect attributes" Translation="Add/Collect attributes"/>
+    <Element Key="Tools" Translation="Tools"/>
+    <Element Key="The Add to map operator(s)" Translation="The Add to map operator(s)"/>
+    <Element Key="October" Translation="October"/>
+    <Element Key="Read in Encoded/Crypted file" Translation="Read in Encoded/Crypted file"/>
+    <Element Key="The AddScalar operator : A = A + Scalar" Translation="The AddScalar operator : A = A + Scalar"/>
+    <Element Key="Swapping" Translation="Swapping"/>
+    <Element Key="Binary Search" Translation="Binary Search"/>
+    <Element Key="Creation Date :" Translation="Creation Date :"/>
+    <Element Key="Browse" Translation="Browse"/>
+    <Element Key="Mask parts" Translation="Mask parts"/>
+    <Element Key="The Compare operator" Translation="The Compare operator"/>
+    <Element Key="Programmation : In progress" Translation="Programmation : In progress"/>
+    <Element Key="Product" Translation="Product"/>
+    <Element Key="Add/Extract Group" Translation="Add/Extract Group"/>
+    <Element Key="The Clear map operator(s)" Translation="The Clear map operator(s)"/>
+    <Element Key="Language Requester" Translation="Choose Language"/>
+    <Element Key="Add Element Ex" Translation="Add Element Ex"/>
+    <Element Key="E-mail :" Translation="E-mail :"/>
+    <Element Key="Your nickname" Translation="Your nickname"/>
+    <Element Key="Save" Translation="Save"/>
+    <Element Key="END OF FILE" Translation="END OF FILE"/>
+    <Element Key="The mutators" Translation="The mutators"/>
+    <Element Key="The Randomize operator" Translation="The Randomize operator"/>
+    <Element Key="File Version : 0.0.0" Translation="File Version : 0.0.0"/>
+    <Element Key="QuickSort Ascending" Translation="QuickSort Ascending"/>
+    <Element Key="Product by Scalar" Translation="Product by Scalar"/>
+    <Element Key="You are about to delete the date mask : %DATE_MASK%. Would you like to continue ?" Translation="You are about to delete the date mask : %DATE_MASK%. Would you like to continue ?"/>
+    <Element Key="Refresh Prefs Group" Translation="Refresh Prefs Group"/>
+    <Element Key="Name" Translation="Name"/>
+    <Element Key="AUTOMATICALLY GENERATED CODE, DO NOT MODIFY" Translation="AUTOMATICALLY GENERATED CODE, DO NOT MODIFY"/>
+    <Element Key="File Name" Translation="File Name"/>
+    <Element Key="JSON Load From file" Translation="JSON Load From file"/>
+    <Element Key="Previous Element" Translation="Previous Element"/>
+    <Element Key="Disable/Enable Debugger" Translation="Disable/Enable Debugger"/>
+    <Element Key="Structures declaration" Translation="Structures declaration"/>
+    <Element Key="Plus" Translation="Plus"/>
+    <Element Key="The AddScaled operator : A = A + B * S" Translation="The AddScaled operator : A = A + B * S"/>
+    <Element Key="Other errors" Translation="Other errors"/>
+    <Element Key="Sort" Translation="Sort"/>
+    <Element Key="February" Translation="February"/>
+    <Element Key="The Special operator(s)" Translation="The Special operator(s)"/>
+    <Element Key="Compare" Translation="Compare"/>
+    <Element Key="Read File" Translation="Read File"/>
+    <Element Key="The file %FILE% already exist. Would you like to overwrite ?" Translation="The file %FILE% already exist. Would you like to overwrite ?"/>
+    <Element Key="The Subtract operator : A = A - B" Translation="The Subtract operator : A = A - B"/>
+    <Element Key="Save On Prefs file" Translation="Save On Prefs file"/>
+    <Element Key="Keywords" Translation="Keywords"/>
+    <Element Key="The Binary Search operator" Translation="The Binary Search operator"/>
+    <Element Key="Object name" Translation="Object name"/>
+    <Element Key="Date Mask Editor" Translation="Date Mask Editor"/>
+    <Element Key="st:1,21,31|nd:2,22|rd:3,23|th:x" Translation="st:1,21,31|nd:2,22|rd:3,23|th:x"/>
+    <Element Key="Next Element" Translation="Next Element"/>
+    <Element Key="The parameters type differ" Translation="The parameters type differ"/>
+    <Element Key="JSON Save On file" Translation="JSON Save On file"/>
+    <Element Key="JSON File" Translation="JSON File"/>
+    <Element Key="The Quick Sort Ascendant operator(s)" Translation="The Quick Sort Ascendant operator(s)"/>
+    <Element Key="The Size of the linked list operator(s)" Translation="The Size of the linked list operator(s)"/>
+    <Element Key="The binary search linked list operator(s)" Translation="The binary search linked list operator(s)"/>
+    <Element Key="Code Generator Rules" Translation="Code Generator Rules"/>
+    <Element Key="The Add operator : A = A + B" Translation="The Add operator : A = A + B"/>
+    <Element Key="Close" Translation="Close"/>
+    <Element Key="Select Element" Translation="Select Element"/>
+    <Element Key="Open preferences file" Translation="Open preferences file"/>
+    <Element Key="Project name : the project name here" Translation="Project name : the project name here"/>
+    <Element Key="PureBasic SourceCode (*.pb)|*.pb|PureBasic IncludeCode (*.pbi)|*.pbi" Translation="PureBasic SourceCode (*.pb)|*.pb|PureBasic IncludeCode (*.pbi)|*.pbi"/>
+    <Element Key="Standard Deviation" Translation="Standard Deviation"/>
+    <Element Key="Dev-Object - Warning" Translation="Dev-Object - Warning"/>
+    <Element Key="Dec" Translation="Dec"/>
+    <Element Key="XML Get Node with Attributes" Translation="XML Get Node with Attributes"/>
+    <Element Key="Normal Text" Translation="Normal Text"/>
+    <Element Key="Tabulation (Number of space)" Translation="Tabulation (Number of space)"/>
+    <Element Key="Platform : Windows, Linux, MacOS X" Translation="Platform : Windows, Linux, MacOS X"/>
+    <Element Key="Dynamic Array Operators" Translation="Dynamic Array Operators"/>
+    <Element Key="The ProductByScalar operator : A = A * Scalar" Translation="The ProductByScalar operator : A = A * Scalar"/>
+    <Element Key="Error" Translation="Error"/>
+    <Element Key="Programmed by :" Translation="Programmed by :"/>
+    <Element Key="Statistics based on last %X% code generations" Translation="Statistics based on last %X% code generations"/>
+    <Element Key="Editors Font" Translation="Editors Font"/>
+    <Element Key="Linear Interpolation" Translation="Linear Interpolation"/>
+    <Element Key="The DivideByScalar operator : A = A / Scalar" Translation="The DivideByScalar operator : A = A / Scalar"/>
+    <Element Key="Last update :" Translation="Last update :"/>
+    <Element Key="The map Size operator(s)" Translation="The map Size operator(s)"/>
+    <Element Key="Read Binary File" Translation="Read Binary File"/>
+    <Element Key="The Access operator" Translation="The Access operator"/>
+    <Element Key="2 digits seconds" Translation="2 digits seconds"/>
+    <Element Key="Long day name" Translation="Long day name"/>
+    <Element Key="Node with attributes" Translation="Node with attributes"/>
+    <Element Key="Select project to save" Translation="Select project to save"/>
+    <Element Key="Jan" Translation="Jan"/>
+    <Element Key="Saturday" Translation="Saturday"/>
+    <Element Key="XML Get Node with child nodes" Translation="XML Get Node with child nodes"/>
+    <Element Key="XML Add Attributes" Translation="XML Add Attributes"/>
+    <Element Key="No Date Mask !" Translation="No Date Mask !"/>
+    <Element Key="Oct" Translation="Oct"/>
+    <Element Key="UNLESS YOU REALLY, REALLY, REALLY MEAN IT !!" Translation="UNLESS YOU REALLY, REALLY, REALLY MEAN IT !!"/>
+    <Element Key="Read/Write group" Translation="Read/Write group"/>
+    <Element Key="The InsertEx in linked list operator(s)" Translation="The InsertEx in linked list operator(s)"/>
+    <Element Key="Size Array Constants" Translation="Size Array Constants"/>
+    <Element Key="XML Set Node with child nodes" Translation="XML Set Node with child nodes"/>
+    <Element Key="The Linear Search operator" Translation="The Linear Search operator"/>
+    <Element Key="Sunday" Translation="Sunday"/>
+    <Element Key="Memory Operators" Translation="Memory Operators"/>
+    <Element Key="Select the Source(s) code to analyse" Translation="Select the Source(s) code to analyse"/>
+    <Element Key="No licence" Translation="No licence"/>
+    <Element Key="2 digits month" Translation="2 digits month"/>
+    <Element Key="Fold Markers Background" Translation="Fold Markers Background"/>
+    <Element Key="Insert/Extract object" Translation="Insert/Extract object"/>
+    <Element Key="Write preferences group" Translation="Write preferences group"/>
+    <Element Key="File name : File name here" Translation="File name : File name here"/>
+    <Element Key="Encoded/Encrypted File" Translation="Encoded/Encrypted File"/>
+    <Element Key="OK" Translation="OK"/>
+    <Element Key="User Informations" Translation="User Informations"/>
+    <Element Key="Garbage Collector" Translation="Garbage Collector"/>
+    <Element Key="Apr" Translation="Apr"/>
+    <Element Key="Preferences File" Translation="Preferences File"/>
+    <Element Key="Update" Translation="Update"/>
+    <Element Key="XML Catch file" Translation="XML Catch file"/>
+    <Element Key="2 digits day" Translation="2 digits day"/>
+    <Element Key="The Plus operator : R = A + B" Translation="The Plus operator : R = A + B"/>
+    <Element Key="Select folder" Translation="Select folder"/>
+    <Element Key="Equal" Translation="Equal"/>
+    <Element Key="Pointers" Translation="Pointers"/>
+    <Element Key="Generation Time (Second)" Translation="Generation Time (Second)"/>
+    <Element Key="Merge" Translation="Merge"/>
+    <Element Key="Thursday" Translation="Thursday"/>
+    <Element Key="Average" Translation="Average"/>
+    <Element Key="The ReDim operator" Translation="The ReDim operator"/>
+    <Element Key="March" Translation="March"/>
+    <Element Key="Linear Search" Translation="Linear Search"/>
+    <Element Key="Best" Translation="Best"/>
+    <Element Key="Fixed Queue" Translation="Fixed Queue"/>
+    <Element Key="Open Encoded/Crypted File" Translation="Open Encoded/Crypted File"/>
+    <Element Key="The Next element in linked list operator(s)" Translation="The Next element in linked list operator(s)"/>
+    <Element Key="Generation Rate (Line/Second)" Translation="Generation Rate (Line/Second)"/>
+    <Element Key="Add keywords as comments" Translation="Add keywords as comments"/>
+    <Element Key="The sort linked list operator(s)" Translation="The sort linked list operator(s)"/>
+    <Element Key="The Update operator" Translation="The Update operator"/>
+    <Element Key="Reset" Translation="Reset"/>
+    <Element Key="The Delete element from linked list operator(s)" Translation="The Delete element from linked list operator(s)"/>
+    <Element Key="Current line Background" Translation="Current line Background"/>
+    <Element Key="The Size operator" Translation="The Size operator"/>
+    <Element Key="Comments" Translation="Comments"/>
+    <Element Key="Linked List Operators" Translation="Linked List Operators"/>
+    <Element Key="The Equal operator : A = B" Translation="The Equal operator : A = B"/>
+    <Element Key="Add Scaled" Translation="Add Scaled"/>
+    <Element Key="Code generated in : %TIME% seconds (%RATE% lines/second)" Translation="Code generated in : %TIME% seconds (%RATE% lines/second)"/>
+    <Element Key="Line Numbers" Translation="Line Numbers"/>
+    <Element Key="Sources files folder" Translation="Sources files folder"/>
+  </Table>
+</Language>
